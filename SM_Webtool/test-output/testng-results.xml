@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-29T08:46:08 SGT" name="Suite" finished-at="2024-02-29T08:47:40 SGT" duration-ms="92100">
+    <groups>
+    </groups>
+    <test started-at="2024-02-29T08:46:08 SGT" name="Test" finished-at="2024-02-29T08:47:40 SGT" duration-ms="92100">
+      <class name="webtool.tests.Remittance">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:webtool.tests.Remittance@79179359]" started-at="2024-02-29T08:47:18 SGT" name="launchApplication" finished-at="2024-02-29T08:47:21 SGT" duration-ms="3086" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="validateListOfModulesInRemittance()[pri:0, instance:webtool.tests.Remittance@79179359]" started-at="2024-02-29T08:47:21 SGT" name="validateListOfModulesInRemittance" finished-at="2024-02-29T08:47:25 SGT" duration-ms="4013" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateListOfModulesInRemittance -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestContext)[pri:0, instance:webtool.tests.Remittance@79179359]" started-at="2024-02-29T08:47:25 SGT" name="tearDown" finished-at="2024-02-29T08:47:25 SGT" duration-ms="142" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7c251f90]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:webtool.tests.Remittance@79179359]" started-at="2024-02-29T08:47:25 SGT" name="launchApplication" finished-at="2024-02-29T08:47:28 SGT" duration-ms="3267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="validateRemittancePageRedirection()[pri:0, instance:webtool.tests.Remittance@79179359]" started-at="2024-02-29T08:47:28 SGT" name="validateRemittancePageRedirection" finished-at="2024-02-29T08:47:32 SGT" duration-ms="4053" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateRemittancePageRedirection -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestContext)[pri:0, instance:webtool.tests.Remittance@79179359]" started-at="2024-02-29T08:47:32 SGT" name="tearDown" finished-at="2024-02-29T08:47:32 SGT" duration-ms="136" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7c251f90]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:webtool.tests.Remittance@79179359]" started-at="2024-02-29T08:47:32 SGT" name="launchApplication" finished-at="2024-02-29T08:47:36 SGT" duration-ms="3367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="validateRemittanceRunnerPageRedirection()[pri:0, instance:webtool.tests.Remittance@79179359]" started-at="2024-02-29T08:47:36 SGT" name="validateRemittanceRunnerPageRedirection" finished-at="2024-02-29T08:47:40 SGT" duration-ms="4004" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateRemittanceRunnerPageRedirection -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestContext)[pri:0, instance:webtool.tests.Remittance@79179359]" started-at="2024-02-29T08:47:40 SGT" name="tearDown" finished-at="2024-02-29T08:47:40 SGT" duration-ms="188" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7c251f90]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- webtool.tests.Remittance -->
+      <class name="webtool.tests.Seller">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:webtool.tests.Seller@1921ad94]" started-at="2024-02-29T08:46:08 SGT" name="launchApplication" finished-at="2024-02-29T08:46:14 SGT" duration-ms="6108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="validateCLusterAssignmentForNonFood(java.util.HashMap,org.testng.ITestContext)[pri:0, instance:webtool.tests.Seller@1921ad94]" started-at="2024-02-29T08:46:14 SGT" name="validateCLusterAssignmentForNonFood" data-provider="getClusterAssignmentNonFoodData" finished-at="2024-02-29T08:46:25 SGT" duration-ms="10825" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{password=SM0P4ppDevUAT!, vertical=shops, email=productdevelopmentteam@smop.asia-uat}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@7c251f90]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCLusterAssignmentForNonFood -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestContext)[pri:0, instance:webtool.tests.Seller@1921ad94]" started-at="2024-02-29T08:46:25 SGT" name="tearDown" finished-at="2024-02-29T08:46:25 SGT" duration-ms="186" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7c251f90]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:webtool.tests.Seller@1921ad94]" started-at="2024-02-29T08:46:25 SGT" name="launchApplication" finished-at="2024-02-29T08:46:29 SGT" duration-ms="3433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="validateCLusterAssignmentForNonFood(java.util.HashMap,org.testng.ITestContext)[pri:0, instance:webtool.tests.Seller@1921ad94]" started-at="2024-02-29T08:46:29 SGT" name="validateCLusterAssignmentForNonFood" data-provider="getClusterAssignmentNonFoodData" finished-at="2024-02-29T08:46:34 SGT" duration-ms="5043" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{password=SM0P4ppDevUAT!, vertical=grocery, email=productdevelopmentteam@smop.asia-uat}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@7c251f90]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCLusterAssignmentForNonFood -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestContext)[pri:0, instance:webtool.tests.Seller@1921ad94]" started-at="2024-02-29T08:46:34 SGT" name="tearDown" finished-at="2024-02-29T08:46:34 SGT" duration-ms="149" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7c251f90]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:webtool.tests.Seller@1921ad94]" started-at="2024-02-29T08:46:34 SGT" name="launchApplication" finished-at="2024-02-29T08:46:37 SGT" duration-ms="3539" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="validateCLusterAssignmentForNonFood(java.util.HashMap,org.testng.ITestContext)[pri:0, instance:webtool.tests.Seller@1921ad94]" started-at="2024-02-29T08:46:37 SGT" name="validateCLusterAssignmentForNonFood" data-provider="getClusterAssignmentNonFoodData" finished-at="2024-02-29T08:46:40 SGT" duration-ms="3194" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{password=SM0P4ppDevUAT!, vertical=, email=productdevelopmentteam@smop.asia-uat}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@7c251f90]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCLusterAssignmentForNonFood -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestContext)[pri:0, instance:webtool.tests.Seller@1921ad94]" started-at="2024-02-29T08:46:40 SGT" name="tearDown" finished-at="2024-02-29T08:46:41 SGT" duration-ms="405" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7c251f90]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:webtool.tests.Seller@1921ad94]" started-at="2024-02-29T08:46:41 SGT" name="launchApplication" finished-at="2024-02-29T08:46:44 SGT" duration-ms="3112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="validateCLusterAssignmentForNonFood(java.util.HashMap,org.testng.ITestContext)[pri:0, instance:webtool.tests.Seller@1921ad94]" started-at="2024-02-29T08:46:44 SGT" name="validateCLusterAssignmentForNonFood" data-provider="getClusterAssignmentNonFoodData" finished-at="2024-02-29T08:46:48 SGT" duration-ms="3875" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{password=SM0P4ppDevUAT!, vertical=shops, email=gelomiadminuat@yopmail.com}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@7c251f90]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCLusterAssignmentForNonFood -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestContext)[pri:0, instance:webtool.tests.Seller@1921ad94]" started-at="2024-02-29T08:46:48 SGT" name="tearDown" finished-at="2024-02-29T08:46:48 SGT" duration-ms="138" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7c251f90]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:webtool.tests.Seller@1921ad94]" started-at="2024-02-29T08:46:48 SGT" name="launchApplication" finished-at="2024-02-29T08:46:51 SGT" duration-ms="3205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="validateCLusterAssignmentForNonFood(java.util.HashMap,org.testng.ITestContext)[pri:0, instance:webtool.tests.Seller@1921ad94]" started-at="2024-02-29T08:46:51 SGT" name="validateCLusterAssignmentForNonFood" data-provider="getClusterAssignmentNonFoodData" finished-at="2024-02-29T08:46:56 SGT" duration-ms="4354" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{password=SM0P4ppDevUAT!, vertical=grocery, email=gelomiadminuat@yopmail.com}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@7c251f90]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCLusterAssignmentForNonFood -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestContext)[pri:0, instance:webtool.tests.Seller@1921ad94]" started-at="2024-02-29T08:46:56 SGT" name="tearDown" finished-at="2024-02-29T08:46:56 SGT" duration-ms="142" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7c251f90]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:webtool.tests.Seller@1921ad94]" started-at="2024-02-29T08:46:56 SGT" name="launchApplication" finished-at="2024-02-29T08:46:59 SGT" duration-ms="3077" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="validateCLusterAssignmentForNonFood(java.util.HashMap,org.testng.ITestContext)[pri:0, instance:webtool.tests.Seller@1921ad94]" started-at="2024-02-29T08:46:59 SGT" name="validateCLusterAssignmentForNonFood" data-provider="getClusterAssignmentNonFoodData" finished-at="2024-02-29T08:47:01 SGT" duration-ms="2688" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{password=SM0P4ppDevUAT!, vertical=, email=gelomiadminuat@yopmail.com}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@7c251f90]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCLusterAssignmentForNonFood -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestContext)[pri:0, instance:webtool.tests.Seller@1921ad94]" started-at="2024-02-29T08:47:01 SGT" name="tearDown" finished-at="2024-02-29T08:47:02 SGT" duration-ms="170" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7c251f90]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:webtool.tests.Seller@1921ad94]" started-at="2024-02-29T08:47:02 SGT" name="launchApplication" finished-at="2024-02-29T08:47:05 SGT" duration-ms="3340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="validateClusterAssignmentForFood(java.util.HashMap,org.testng.ITestContext)[pri:0, instance:webtool.tests.Seller@1921ad94]" started-at="2024-02-29T08:47:05 SGT" name="validateClusterAssignmentForFood" data-provider="getClusterAssignmentFoodData" finished-at="2024-02-29T08:47:10 SGT" duration-ms="4535" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{password=SM0P4ppDevUAT!, vertical=food, email=productdevelopmentteam@smop.asia-uat}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@7c251f90]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateClusterAssignmentForFood -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestContext)[pri:0, instance:webtool.tests.Seller@1921ad94]" started-at="2024-02-29T08:47:10 SGT" name="tearDown" finished-at="2024-02-29T08:47:10 SGT" duration-ms="150" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7c251f90]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:webtool.tests.Seller@1921ad94]" started-at="2024-02-29T08:47:10 SGT" name="launchApplication" finished-at="2024-02-29T08:47:13 SGT" duration-ms="3182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="validateClusterAssignmentForFood(java.util.HashMap,org.testng.ITestContext)[pri:0, instance:webtool.tests.Seller@1921ad94]" started-at="2024-02-29T08:47:13 SGT" name="validateClusterAssignmentForFood" data-provider="getClusterAssignmentFoodData" finished-at="2024-02-29T08:47:17 SGT" duration-ms="4464" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{password=SM0P4ppDevUAT!, vertical=food, email=gelomiadminuat@yopmail.com}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@7c251f90]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateClusterAssignmentForFood -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestContext)[pri:0, instance:webtool.tests.Seller@1921ad94]" started-at="2024-02-29T08:47:17 SGT" name="tearDown" finished-at="2024-02-29T08:47:18 SGT" duration-ms="256" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7c251f90]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- webtool.tests.Seller -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

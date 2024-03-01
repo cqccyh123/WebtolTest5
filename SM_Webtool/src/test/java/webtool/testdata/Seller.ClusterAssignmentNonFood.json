@@ -1,0 +1,37 @@
+[
+{
+	"email" : "productdevelopmentteam@smop.asia-uat",
+	"password" : "SM0P4ppDevUAT!",
+	"vertical" : "shops"
+},
+
+{
+	"email" : "productdevelopmentteam@smop.asia-uat",
+	"password" : "SM0P4ppDevUAT!",
+	"vertical" : "grocery"
+},
+
+{
+	"email" : "productdevelopmentteam@smop.asia-uat",
+	"password" : "SM0P4ppDevUAT!",
+	"vertical" : ""
+},
+
+{
+	"email" : "gelomiadminuat@yopmail.com",
+	"password" : "SM0P4ppDevUAT!",
+	"vertical" : "shops"
+},
+
+{
+	"email" : "gelomiadminuat@yopmail.com",
+	"password" : "SM0P4ppDevUAT!",
+	"vertical" : "grocery"
+},
+
+{
+	"email" : "gelomiadminuat@yopmail.com",
+	"password" : "SM0P4ppDevUAT!",
+	"vertical" : ""
+}
+]
