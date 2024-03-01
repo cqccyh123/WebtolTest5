@@ -7,5 +7,7 @@ public class newactions {
 		
 		System.out.println("aaaaaaa");
 		System.out.println("bbbbbbb");
+		System.out.println("ccccccc");
+
 	}
 }
